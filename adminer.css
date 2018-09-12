@@ -626,6 +626,11 @@ select {
     vertical-align: middle;
 }
 
+select option {
+    color: #ffffff;
+    background: rgb(46, 44, 62);
+}
+
 label {
     cursor: pointer;
     margin-right: 6px;
